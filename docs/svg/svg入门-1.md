@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+id: svg-1
+title: svg入门-1
 ---
 
 # Hello
