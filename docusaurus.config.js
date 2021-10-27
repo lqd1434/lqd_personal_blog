@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '我的网站',
-  tagline: 'Dinosaurs are cool',
+  title: '一个别样的世界',
+  tagline: '李清栋的避风港湾',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
