@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: '前端程序员👨🏻‍💻',
+    Svg: require('../../static/img/undraw_Website_builder_re_ii6e.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        我是一个前端程序员,喜欢前端的开放和表现力,也深深被前端广大的世界所折服,愿倾尽一生去学习前端
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: '平平无奇单身狗',
+    Svg: require('../../static/img/undraw_With_love_re_1q3m.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        自从第一次恋爱经历失败后,我就潜心学习编程,从开始的<code>python</code>,到后来的<code>java</code>,最后确定了我的方向--前端,希望在未来的日子里,我能收获一份美好的爱情💑
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: '南昌大学学生',
+    Svg: require('../../static/img/undraw_exams_g4ow.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        我现在是一名南昌大学通信工程大三学生,并将在接下来的两年里,努力完成学业,毕业以后投身前端领域
       </>
     ),
   },
