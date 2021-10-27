@@ -13,20 +13,20 @@ const FeatureList = [
     ),
   },
   {
-    title: '平平无奇单身狗',
+    title: '喜欢设计',
     Svg: require('../../static/img/undraw_With_love_re_1q3m.svg').default,
     description: (
       <>
-        自从第一次恋爱经历失败后,我就潜心学习编程,从开始的<code>python</code>,到后来的<code>java</code>,最后确定了我的方向--前端,希望在未来的日子里,我能收获一份美好的爱情💑
+       我一直以来就喜欢一些花里胡哨的设计,这可能也是我最终选择学前端的原因
       </>
     ),
   },
   {
-    title: '南昌大学学生',
+    title: '平平无奇大学生',
     Svg: require('../../static/img/undraw_exams_g4ow.svg').default,
     description: (
       <>
-        我现在是一名南昌大学通信工程大三学生,并将在接下来的两年里,努力完成学业,毕业以后投身前端领域
+        我现在是一名大三学生,并将在接下来的两年里,努力完成学业,毕业以后投身前端领域
       </>
     ),
   },
